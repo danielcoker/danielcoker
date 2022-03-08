@@ -2,24 +2,13 @@
 
 I’m Daniel, an Information Technology student. I enjoy learning and creative thinking. In my spare time, I write about what I’ve learned.
 
-
 #### Find me on:
 
 - [Medium](https://danielcoker.medium.com)
 - [Twitter](https://twitter.com/danielcoker_)
 - [LinkedIn](https://linkedin.com/in/daniel-coker)
 
-<!--
-**danielcoker/danielcoker** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+#### Hashnode Blog Post
 
-Here are some ideas to get you started:
-
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+<!-- HASHNODE:START -->
+<!-- HASHNODE:END -->
