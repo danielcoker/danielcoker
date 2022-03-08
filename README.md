@@ -11,4 +11,5 @@ I’m Daniel, an Information Technology student. I enjoy learning and creative t
 #### Hashnode Blog Post
 
 <!-- HASHNODE:START -->
+- [Updating Many-To-Many Relationships In Django](https://danielcoker.hashnode.dev/updating-many-to-many-relationships-in-django)
 <!-- HASHNODE:END -->
