@@ -8,7 +8,7 @@ I’m Daniel, an Information Technology student. I enjoy learning and creative t
 - [Twitter](https://twitter.com/danielcoker_)
 - [LinkedIn](https://linkedin.com/in/daniel-coker)
 
-#### Hashnode Blog Post
+#### Hashnode Blog Posts
 
 <!-- HASHNODE:START -->
 - [Updating Many-To-Many Relationships In Django](https://danielcoker.hashnode.dev/updating-many-to-many-relationships-in-django)
