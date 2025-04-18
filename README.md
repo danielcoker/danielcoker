@@ -1,6 +1,6 @@
 ### Hi there 👋
 
-I’m Daniel, an Information Technology student. I enjoy learning and creative thinking. In my spare time, I write about what I’ve learned.
+I am a software engineer passionate about building well-designed, scalable, and reliable systems. With experience in backend development, APIs, and system design, I enjoy solving complex problems and continuously improving software quality.
 
 #### Find me on:
 
